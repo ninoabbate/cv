@@ -58,3 +58,4 @@ Bachelor of Information Technology | Computer Science | Università di Messina (
 ### Other Personal Projects
 * Open Source contributions
     - Opsweekly https://github.com/etsy/opsweekly
+    - Prometheus SNMP-exporter https://github.com/prometheus/snmp_exporter
