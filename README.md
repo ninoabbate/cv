@@ -1,7 +1,7 @@
 ## Antonino Abbate
 `ninoabbate@gmail.com` `+39 335 74 95 476`
 
-IT Operations - Monitoring - Security - Networking
+IT Operations - Monitoring - Security - Networking - DevOps
 
 ### Qualifications summary
 * All rounder when it comes to IT Operations & Security, able to fill in different positions.
@@ -26,13 +26,28 @@ Bachelor of Information Technology | Computer Science | Università di Messina (
 
 
 ### Professional Experience
-* Operations Engineer, Vendini, Gualdo Tadino, Italy (Mar. 2015 – Current)
+* Founder, THE I, Sarcedo, Italy (Jul. 2017 – Current)
+    The company is specilized in the following areas and activities:
+    - Infrastructure engineering
+    - Systems integration
+    - Monitoring
+    - Data centers migration
+    - Disaster Recovery
+    - Deployments (infrastructures, services, applications, platforms)
+    - Information Security
+    - Project & Service Management
+    - Cost Analysis, Cost Saving and Re-engineering
+* Operations Engineer - Independent Contractor, Vendini, 100% Remote (Jul. 2017 – Current)
+    - Engineered and implemented the Transaction/Encryption Monitoring Infrastructure.
+    - Engineered and implemented the Application used to take the backup of all network devices configuration, it also notifies when a configuration change happens.
+* Operations Engineer, Vendini, Gualdo Tadino, Italy (Mar. 2015 – Jun. 2017)
     - Engineered and implemented the Logs monitoring infrastructure.
     - Engineered and implemented the IDS infrastructure.
     - Daily duties which include: Mantain secure the infrastructures, Monitor the availability of all services, Develop and implement new solutions, Mitigate and resolve issues on all infrastructures.
     - Worked using Agile methodologies following the SCRUM approach.
-    - Technologies got to work on (they are a lot more): `AWS` `Linux` `Palo Alto` `A10` `ELK` `Ossec` `Snort` `Docker` `Windows Server` `IIS` `JIRA with Agile`
-    - External services: `Queue-it` `Twilio` `Pagerduty` `Pingdom` `Sendgrid`  
+    - Maintan the infrastructures PCI-DSS complaint.
+    - Technologies got to work on (they are a lot more): `AWS` `Linux` `Palo Alto` `A10` `ELK` `Ossec` `Snort` `Docker` `Windows Server` `IIS` `JIRA with Agile` 'git'
+    - External services: `Queue-it` `Twilio` `Pagerduty` `Pingdom` `Sendgrid` `GitHub` `Bitbucket` `Jira` `DockerHub`     
 * Security Engineer, Telecom Italia, Rome, Italy (Dec. 2013 – Feb. 2015)
     - Resposible for IT Security and Compliance of TI Sparkle NET Operations production infrastructures
     - Security activities like: Risk Assesments, Internal Audits, Gap Analysis, Remediation Plans, Patch Management, Identity and access management, Hardening
@@ -59,3 +74,6 @@ Bachelor of Information Technology | Computer Science | Università di Messina (
 * Open Source contributions
     - Opsweekly https://github.com/etsy/opsweekly
     - Prometheus SNMP-exporter https://github.com/prometheus/snmp_exporter
+    - Prometheus SNMP exporter configuration generator in a docker container https://github.com/ninoabbate/docker-secg
+    - A dockerized version of Opsweekly by Etsy https://github.com/ninoabbate/docker-opsweekly
+    - A dockerized version of Morgue by Etsy https://github.com/ninoabbate/docker-morgue
